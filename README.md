@@ -46,6 +46,6 @@ An unbeatable Tic-Tac-Toe game using the **Minimax algorithm** with Alpha-Beta p
 
 ## Author
 
-- **Ayan**
+- **Ayan Karmakar**
 - **Email**: [ayankarmakar076@gmail.com](mailto:ayankarmakar076@gmail.com)
 - **GitHub**: [Ayan-Script](https://github.com/Ayan-Script)
